@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{DDBE4CA6-FBD3-0191-3F89-35C861EA846F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CubeController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SphereController.cs" Line="159" Column="35" IsPinned="True" />
+      <File FileName="Assets/Scripts/CubeController.cs" Line="8" Column="6" />
+      <File FileName="Assets/Scripts/RotateFerris.cs" />
+      <File FileName="Assets/Scripts/RotateWheel.cs" />
+      <File FileName="Assets/Scripts/CylinderController.cs" />
+      <File FileName="Assets/Scripts/RestartGame.cs" />
+      <File FileName="Assets/Scripts/WeightDetach.cs" />
+      <File FileName="Assets/Scripts/Play.cs" />
+      <File FileName="Assets/Scripts/GameOverLoad.cs" />
+      <File FileName="Assets/Scripts/MainCameraController.cs" />
+      <File FileName="Assets/Scripts/FirstCameraController.cs" />
+      <File FileName="Assets/Scripts/ThirdPersonCamera.cs" />
+      <File FileName="Assets/Scripts/ChangeCamera.cs" />
+      <File FileName="Assets/Scripts/ZoomIn.cs" />
+      <File FileName="Assets/Scripts/ZoomOut.cs" />
+      <File FileName="Assets/Scripts/CannonController.cs" />
+      <File FileName="Assets/Scripts/Obstacles.cs" />
+      <File FileName="Assets/Scripts/RotateLeft.cs" />
+      <File FileName="Assets/Scripts/RotateRight.cs" />
+      <File FileName="Assets/Scripts/SpotlightController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BallPark" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d05651ee-5164-4553-a1ad-3e7391a383b3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
