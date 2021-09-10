@@ -13,7 +13,7 @@ public class GameOverLoad : MonoBehaviour
 
     void Start()
     {
-        //Uses health and time values from previous scene
+        // Uses health and time values from previous scene
         health = PlayerPrefs.GetString("health");
         time = PlayerPrefs.GetString("time");
         healthGUI.text = "Health: " + health;
